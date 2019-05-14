@@ -1,0 +1,14 @@
+nav{
+  display: flex;
+  justify-content: flex-end;
+  color: yellow;
+  padding-right: 14px;
+  padding-top: 20px;
+  text-decoration: underline;
+  cursor: pointer;
+
+}
+nav:hover{
+  color: blue;
+  pointer-events: visibleStroke;
+}
