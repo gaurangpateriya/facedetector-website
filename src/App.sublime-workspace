@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ca",
+				"className"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"bg-",
+				"bg-light-red"
+			],
+			[
+				"siz",
+				"font-size\tproperty"
+			],
+			[
+				"sa",
+				"searchText"
+			],
+			[
+				"sea",
+				"searchText"
+			],
+			[
+				"robo",
+				"robots"
+			],
+			[
+				"a",
+				"App"
+			],
+			[
+				"robot",
+				"robotarray"
+			],
+			[
+				"sty",
+				"font-style\tproperty"
+			],
+			[
+				"spa",
+				"letter-spacing\tproperty"
+			],
+			[
+				"backgrou",
+				"background_generator"
+			],
+			[
+				"colo",
+				"color2"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"textS",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"bo",
+				"border-style\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"post",
+				"postOrderIterative"
+			],
+			[
+				"drw",
+				"drawcircle"
+			],
+			[
+				"xcor",
+				"xcordinate"
+			],
+			[
+				"pen",
+				"penup"
+			],
+			[
+				"ran",
+				"random_color"
+			],
+			[
+				"po",
+				"postOrderIterative"
+			],
+			[
+				"print",
+				"printout"
+			],
+			[
+				"os",
+				"ostream"
+			],
+			[
+				"input",
+				"input"
+			],
+			[
+				"ge",
+				"getinput"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"prev",
+				"prevlayer"
+			],
+			[
+				"out",
+				"m_outputval"
+			],
+			[
+				"pre",
+				"prevlayer"
+			],
+			[
+				"res",
+				"resultvals"
+			],
+			[
+				"draw",
+				"drawroot"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"tu",
+				"Turtle"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"ca",
+				"cal"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"exit()",
+			"exit",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/programmes/html/robofriends/src/Component/App.js",
+		"/D/programmes/html/facedetector/facedetectorapi/package.json",
+		"/D/programmes/html/robofriends/src/Component/Card.js",
+		"/D/programmes/html/robofriends/src/Component/SearchBox.js",
+		"/D/programmes/html/robofriends/src/index.js",
+		"/D/programmes/html/robofriends/src/data.js",
+		"/D/programmes/html/robofriends/src/Component/Scroll.js",
+		"/D/programmes/html/robofriends/src/Card.js",
+		"/D/programmes/html/robofriends/src/CardArray.js",
+		"/D/programmes/html/robofriends/src/SearchBox.js",
+		"/D/programmes/html/robofriends/src/Scroll.js",
+		"/D/programmes/html/robofriends/src/App.js",
+		"/D/programmes/html/robofriends/src/index.css",
+		"/D/tutorials/[FreeTutorials.Us] Udemy - The Complete Web Developer in 2018 Zero to Mastery/18. React.js/4.2 robots.js.js",
+		"/D/programmes/html/robofriends/src/App.css",
+		"/D/programmes/html/robofriends/src/Hello.css",
+		"/D/programmes/html/robofriends/src/Hello.js",
+		"/D/programmes/html/robofriends/src/logo.svg",
+		"/D/programmes/html/robofriends/src/App.test.js",
+		"/D/programmes/html/robofriends/package.json",
+		"/D/programmes/html/backgroundgenerator/BakgroundGenerator/background_generator.html",
+		"/D/programmes/html/backgroundgenerator/package-lock.json",
+		"/D/programmes/html/test.html",
+		"/D/programmes/html/testscript.js",
+		"/D/programmes/html/backgroundgenerator/background_generator.js",
+		"/D/programmes/html/backgroundgenerator/package.json",
+		"/D/programmes/html/backgroundgenerator/BakgroundGenerator/.git/COMMIT_EDITMSG",
+		"/D/programmes/html/backgroundgenerator/background_generator.html",
+		"/D/programmes/html/background_generator.js",
+		"/D/programmes/html/background_generator.html",
+		"/D/programmes/html/backpropagation.py",
+		"/D/programmes/OOT project/backprop.cpp",
+		"/D/programmes/html/first.css",
+		"/D/programmes/html/first.html",
+		"/D/programmes/html/index.html",
+		"/D/programmes/python/simulation1.py",
+		"/C/Users/Geet/Downloads/simulation2.py",
+		"/C/Users/Geet/Downloads/test.py",
+		"/D/programmes/python/simulation3.py",
+		"/D/programmes/java programe/scientific.java",
+		"/D/programmes/python/trushna.py",
+		"/D/programmes/python/simulation2.py",
+		"/D/programmes/python/final simulation.py",
+		"/D/programmes/python/postorder.py",
+		"/D/programmes/python/redixsort.py",
+		"/D/programmes/python/simdraft.py",
+		"/D/programmes/OOT project/back1.cpp",
+		"/D/programmes/OOT project/input.cpp",
+		"/D/programmes/OOT project/exor.cpp",
+		"/D/programmes/OOT project/test.cpp",
+		"/D/programmes/c++programme/practical8.c",
+		"/D/programmes/python/gui/gui1.py",
+		"/C/Users/Geet/AppData/Local/Temp/Rar$DI00.874/model_utils.py",
+		"/C/Users/Geet/AppData/Local/Temp/Rar$DI03.331/config.py",
+		"/D/programmes/python/simulation.py",
+		"/D/programmes/test/1.cpp",
+		"/D/programmes/test/1.c",
+		"/D/iww.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

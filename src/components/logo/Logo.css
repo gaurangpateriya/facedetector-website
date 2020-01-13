@@ -1,0 +1,9 @@
+.Tilt-inner{
+  background:linear-gradient(to right, rgb(216, 14, 19), rgb(243, 29, 243), 50%);
+  height: 200px;
+  width: 200px;
+
+  margin-left: 15px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px;
+}
